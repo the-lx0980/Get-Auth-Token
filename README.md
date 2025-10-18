@@ -1,6 +1,6 @@
 # Get-Auth-Token
 
-Nice — you can get your Stremio token entirely on your Android phone using a small bookmarklet (a bookmark that runs JavaScript). Follow these steps exactly — no PC required.
+Nice — you can get your token entirely on your Android phone using a small bookmarklet (a bookmark that runs JavaScript). Follow these steps exactly — no PC required.
 
 > ⚠️ Security reminder: your auth.key is like a password. Do not share it. Keep it private and only paste it into scripts you trust.
 
@@ -73,10 +73,3 @@ D — If the bookmarklet fails
 Try in Firefox for Android (bookmark editing works there too).
 
 Or install Kiwi Browser (Chromium-based, supports extensions/bookmarks well) and repeat.
-
-As a last resort, if you can’t make the bookmarklet run, tell me the exact error message you see and I’ll give the next troubleshooting step.
-
-
-
----
-
